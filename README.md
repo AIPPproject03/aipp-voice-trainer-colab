@@ -1,5 +1,7 @@
 # AIPP Voice Trainer (Colab)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIPPproject03/aipp-voice-trainer-colab/blob/main/AIPP_Voice_Trainer_Colab.ipynb)
+
 Notebook Google Colab untuk **melatih model suara RVC dari rekaman suara Anda sendiri** memakai [Applio](https://github.com/IAHispano/Applio). Hasilnya berupa `NamaModel.zip` (berisi `.pth` dan `.index`) yang langsung bisa dipakai di notebook **AIPP Voice Studio**.
 
 File notebook: `AIPP_Voice_Trainer_Colab.ipynb`
